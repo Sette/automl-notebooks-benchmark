@@ -6,22 +6,22 @@ Install anaconda in: https://www.anaconda.com/distribution/#download-section
 
 Install git (Debian based):
 
-#sudo apt install git
+`sudo apt install git`
 
 Install git (Arch based):
 
-#pacman -S git
+`pacman -S git`
 
 
 Clone this repository:
 
-#git clone https://github.com/Sette/automl-notebooks-benchmark
+`git clone https://github.com/Sette/automl-notebooks-benchmark`
 
-#cd automl-notebooks-benchmark
+`cd automl-notebooks-benchmark`
 
 Create conda env:
 
-#conda env create -f automl.yml
+`conda env create -f automl.yml`
 
 This env contains:
 - auto-sklearn==0.5.2
@@ -32,5 +32,5 @@ This env contains:
 
 Run experiments:
 
-#jupyter notebook
+`jupyter notebook`
 
