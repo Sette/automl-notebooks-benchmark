@@ -1,4 +1,4 @@
-## Experimental repository of AutoML benchmark in kaggle datasets
+## Repository of AutoML benchmark in kaggle datasets
 
 ## Run experiments
 
